@@ -1,17 +1,22 @@
 {
     "Passos": [
         {
-            "Passo" : "Passo 1 - Colocar a tampa e alinhar a placa e o anel",
+            "Passo" : "Passo 1 - BOTOES GRANDES",
             "Objetos": [
-                "Lid1",
-                "Plate",
-                "Ring"
+                "Big Buttons.001"
+                
             ]
         },
         {
-            "Passo" : "Passo 2 - Modificar o pistão",
+            "Passo" : "Passo 2 - BOTOES PEQUENOS",
             "Objetos": [
-                "Piston"                
+                "Small Buttons.001"                
+            ]
+        },
+        {
+            "Passo" : "Passo 3 - CHISSI",
+            "Objetos": [
+                "Chassis.001"                
             ]
         }
         
